@@ -33,10 +33,13 @@ Testing Automation
   * Debugging test output
 
 * Automating test running with Grunt & the watch task
+  * Watching files
+  * Using different targets for different tasks
 
 * Other tasks
   * jshint
   * haml
+      * Using a distribution folder
   * copy
   * clean
   * compass
