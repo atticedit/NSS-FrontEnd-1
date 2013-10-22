@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https:github.com/jakerella/NSS-FrontEnd.git"
+    "url": "https://github.com/atticedit/NSS-FrontEnd-1.git"
   },
   "devDependencies": {
     "grunt": "~0.4.x",
